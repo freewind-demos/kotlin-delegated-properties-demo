@@ -1,20 +1,16 @@
-Kotlin Hello World Demo
-=======================
+Kotlin Delegated Properties Demo
+================================
 
-Hello world from kotlin.
+Run the `src/main/kotlin/example/*.kt` one by one to see the effect.
 
-```
-./gradlew run
-```
+- LazyDelegate.kt
+- MapDelegete.kt
+- MutableMapDelegete.kt
+- MyDelegete.kt
+- NotNullDelegate.kt
+- ObservableDelegate.kt
+- ProvideDelegate.kt
+- VariableDelegate.kt
+- VetoableDelegate.kt
 
-You will see "Hello, Kotlin!" from console.
-
-Run tests:
-
-```
-./gradlew test
-```
-
-You will see test result from console.
-
-
+More information, see <https://kotlinlang.org/docs/reference/delegated-properties.html>
